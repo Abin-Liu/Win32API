@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E6E25D9B-A595-431B-9B6A-897457B8216D}</ProjectGuid>
+    <ProjectGuid>{E34438B1-9D90-49DD-9B95-2FD7E970DC6B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Win32API</RootNamespace>
